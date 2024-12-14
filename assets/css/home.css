@@ -1,0 +1,26 @@
+body{
+    margin: 0cm;
+    font-family: sans-serif;
+    
+}
+
+#page-heading{
+    text-align: center;
+    color: grey;
+    margin-top: 25px;
+}
+
+ul{
+    display: inline-block;
+    text-align: left;
+    list-style-type: none;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 30px;
+}
+#contact-list-container{
+    text-align: center;
+}
